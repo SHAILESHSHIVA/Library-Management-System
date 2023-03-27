@@ -7,10 +7,13 @@ Tech Stack Used:: ->Spring Boot ->Mysql ->Java ->Hibernate->JPA
 
 SCHEMA DESIGN
 
-![Screenshot (50)](https://user-images.githubusercontent.com/22121873/227966463-56d5f10f-d742-49f9-93f4-1ef0141b7997.png)
+
+![Screenshot (49)](https://user-images.githubusercontent.com/22121873/227967266-d85d5c17-710e-4003-b85a-93239a912c6d.png)
+
 
 
 API END POINTS
+
 
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/22121873/227966913-9da094be-1863-4924-a6d4-ea1703980f61.png)
